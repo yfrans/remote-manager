@@ -1,0 +1,33 @@
+C:\Users\Yossi\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\bin\Debug\RemoteManager.exe
+C:\Users\Yossi\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\bin\Debug\RemoteManager.pdb
+C:\Users\Yossi\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Yossi\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Debug\RemoteManager.Properties.Resources.resources
+C:\Users\Yossi\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Yossi\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Yossi\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Debug\RemoteManager.exe
+C:\Users\Yossi\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Debug\RemoteManager.pdb
+C:\Users\Yossi\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Debug\Interop.MSTSCLib.dll
+C:\Users\Yossi\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Debug\RemoteManager.csproj.ResolveComReference.cache
+C:\Users\Yossi\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\bin\Debug\Interop.MSTSCLib.dll
+C:\Users\Yossi\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\bin\Debug\AxInterop.MSTSCLib.dll
+C:\Users\Yossi\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Debug\AxInterop.MSTSCLib.dll
+C:\Users\Yossi\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Debug\RemoteManager.Form1.resources
+C:\Users\Yossi\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\bin\Debug\VncSharp.dll
+C:\Users\Yossi\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Debug\RemoteManager.RemoteUserControl.resources
+C:\Users\Yossi\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Debug\RemoteManager.EditForm.resources
+D:\Google Drive\Dev Projects\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Debug\Interop.MSTSCLib.dll
+D:\Google Drive\Dev Projects\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Debug\AxInterop.MSTSCLib.dll
+D:\Google Drive\Dev Projects\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Debug\RemoteManager.csproj.ResolveComReference.cache
+D:\Google Drive\Dev Projects\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Debug\RemoteManager.exe
+D:\Google Drive\Dev Projects\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Debug\RemoteManager.pdb
+D:\Google Drive\Dev Projects\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Debug\RemoteManager.EditForm.resources
+D:\Google Drive\Dev Projects\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Debug\RemoteManager.Properties.Resources.resources
+D:\Google Drive\Dev Projects\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Debug\RemoteManager.RemoteUserControl.resources
+D:\Google Drive\Dev Projects\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Debug\RemoteManager.csproj.GenerateResource.Cache
+D:\Google Drive\Dev Projects\Visual Studio 2010\Projects\RemoteManager\RemoteManager\bin\Debug\RemoteManager.exe
+D:\Google Drive\Dev Projects\Visual Studio 2010\Projects\RemoteManager\RemoteManager\bin\Debug\RemoteManager.pdb
+D:\Google Drive\Dev Projects\Visual Studio 2010\Projects\RemoteManager\RemoteManager\bin\Debug\VncSharp.dll
+D:\Google Drive\Dev Projects\Visual Studio 2010\Projects\RemoteManager\RemoteManager\bin\Debug\Interop.MSTSCLib.dll
+D:\Google Drive\Dev Projects\Visual Studio 2010\Projects\RemoteManager\RemoteManager\bin\Debug\AxInterop.MSTSCLib.dll
+D:\Google Drive\Dev Projects\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Debug\RemoteManager.csprojResolveAssemblyReference.cache
+D:\Google Drive\Dev Projects\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Debug\RemoteManager.MainForm.resources

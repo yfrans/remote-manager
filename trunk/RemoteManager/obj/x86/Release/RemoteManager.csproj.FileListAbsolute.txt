@@ -1,0 +1,52 @@
+C:\Users\Yossi\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Release\Interop.MSTSCLib.dll
+C:\Users\Yossi\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Release\AxInterop.MSTSCLib.dll
+C:\Users\Yossi\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Release\RemoteManager.csproj.ResolveComReference.cache
+C:\Users\Yossi\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\bin\Release\RemoteManager.exe
+C:\Users\Yossi\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\bin\Release\RemoteManager.pdb
+C:\Users\Yossi\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\bin\Release\VncSharp.dll
+C:\Users\Yossi\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\bin\Release\Interop.MSTSCLib.dll
+C:\Users\Yossi\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\bin\Release\AxInterop.MSTSCLib.dll
+C:\Users\Yossi\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Yossi\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Release\RemoteManager.EditForm.resources
+C:\Users\Yossi\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Release\RemoteManager.Form1.resources
+C:\Users\Yossi\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Release\RemoteManager.Properties.Resources.resources
+C:\Users\Yossi\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Release\RemoteManager.RemoteUserControl.resources
+C:\Users\Yossi\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Yossi\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Yossi\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Release\RemoteManager.exe
+C:\Users\Yossi\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Release\RemoteManager.pdb
+C:\Users\Yossi\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Release\RemoteManager.Login.resources
+D:\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Release\Interop.MSTSCLib.dll
+D:\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Release\AxInterop.MSTSCLib.dll
+D:\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Release\RemoteManager.csproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Release\RemoteManager.exe
+D:\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Release\RemoteManager.pdb
+D:\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\bin\Release\RemoteManager.exe
+D:\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\bin\Release\RemoteManager.pdb
+D:\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\bin\Release\VncSharp.dll
+D:\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\bin\Release\Interop.MSTSCLib.dll
+D:\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\bin\Release\AxInterop.MSTSCLib.dll
+D:\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Release\RemoteManager.EditForm.resources
+D:\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Release\RemoteManager.Form1.resources
+D:\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Release\RemoteManager.Login.resources
+D:\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Release\RemoteManager.Properties.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Release\RemoteManager.RemoteUserControl.resources
+D:\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Documents\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Google Drive\Dev Projects\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Release\Interop.MSTSCLib.dll
+D:\Google Drive\Dev Projects\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Release\AxInterop.MSTSCLib.dll
+D:\Google Drive\Dev Projects\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Release\RemoteManager.csproj.ResolveComReference.cache
+D:\Google Drive\Dev Projects\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Release\RemoteManager.exe
+D:\Google Drive\Dev Projects\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Release\RemoteManager.pdb
+D:\Google Drive\Dev Projects\Visual Studio 2010\Projects\RemoteManager\RemoteManager\bin\Release\RemoteManager.exe
+D:\Google Drive\Dev Projects\Visual Studio 2010\Projects\RemoteManager\RemoteManager\bin\Release\RemoteManager.pdb
+D:\Google Drive\Dev Projects\Visual Studio 2010\Projects\RemoteManager\RemoteManager\bin\Release\VncSharp.dll
+D:\Google Drive\Dev Projects\Visual Studio 2010\Projects\RemoteManager\RemoteManager\bin\Release\Interop.MSTSCLib.dll
+D:\Google Drive\Dev Projects\Visual Studio 2010\Projects\RemoteManager\RemoteManager\bin\Release\AxInterop.MSTSCLib.dll
+D:\Google Drive\Dev Projects\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Release\RemoteManager.EditForm.resources
+D:\Google Drive\Dev Projects\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Release\RemoteManager.Properties.Resources.resources
+D:\Google Drive\Dev Projects\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Release\RemoteManager.RemoteUserControl.resources
+D:\Google Drive\Dev Projects\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Release\RemoteManager.csproj.GenerateResource.Cache
+D:\Google Drive\Dev Projects\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Release\RemoteManager.MainForm.resources
+D:\Google Drive\Dev Projects\Visual Studio 2010\Projects\RemoteManager\RemoteManager\obj\x86\Release\RemoteManager.csprojResolveAssemblyReference.cache
